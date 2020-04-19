@@ -9,6 +9,16 @@
 {
     width: 300px;
 }
+.images
+{
+    align-items: center;
+    margin: auto;
+}
+.gallery
+{
+    text-align: center;
+    margin: auto;
+}
 
 
 
