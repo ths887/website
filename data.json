@@ -1,0 +1,163 @@
+[
+        {
+                "sno":"1",
+                "item":"tomato",
+                "quantity":"15",
+                "unit":"kg",
+                "department":"veg",
+                "notes":"Fresh tomato from ooty; per kg:20rs "
+        },
+        {
+                "sno":"2",
+                "item":"potato",
+                "quantity":"45",
+                "unit":"kg",
+                "department":"veg",
+                "notes":"We have two types: one from ooty and other one from wayanad; per kg:35rs"  
+        },
+        {
+                "sno":"3",
+                "item":"grapes",
+                "quantity":"20",
+                "unit":"kg",
+                "department":"fruit section",
+                "notes":"black grapes rate: per kg 60rs; green grape rs: 50rs"
+        },
+        {
+                "sno":"4",
+                "item":"garlic",
+                "quantity":"30",
+                "unit":"kg",
+                "department":"veg",
+                "notes":"garlic 100gm:40rs"
+        },
+        {
+                "sno":"5",
+                "item":"chilly",
+                "quantity":"50",
+                "unit":"kg",
+                "department":"veg",
+                "notes":"chilly 100gm: 5rs"
+        },
+        {
+                "sno":"6",
+                "item":"onion",
+                "quantity":"35",
+                "unit":"kg",
+                "department":"veg",
+                "notes":"big onion per kg:40rs; small onion per kg: 50rs"
+        },
+        {
+                "sno":"7",
+                "item":"beans",
+                "quantity":"10",
+                "unit":"kg",
+                "department":"veg",
+                "notes":"fresh beans per kg:35rs"
+        },
+        {
+                "sno":"8",
+                "item":"bringal",
+                "quantity":"15",
+                "unit":"kg",
+                "department":"veg",
+                "notes":"ooty bringal per kg: 30rs"
+        },
+        {
+                "sno":"9",
+                "item":"carrot",
+                "quantity":"36",
+                "unit":"kg",
+                "department":"veg",
+                "notes":"ooty fresh carrot per kg:35rs"
+        },
+        {
+                "sno":"10",
+                "item":"pumkin",
+                "quantity":"30",
+                "unit":"kg",
+                "department":"veg",
+                "notes":"wayanadan pumkin per kg:25rs"
+        },
+        {
+                "sno":"11",
+                "item":"pomogranut",
+                "quantity":"40",
+                "unit":"kg",
+                "department":"fruit section",
+                "notes":"pomogranut per kg: 50rs"
+        },
+        {
+                "sno":"12",
+                "item":"orange",
+                "quantity":"34",
+                "unit":"kg",
+                "department":"fruit section",
+                "notes":"orange per kg:30rs"
+        },
+        {
+                         
+                "sno":"13",
+                "item":"apple",
+                "quantity":"50",
+                "unit":"kg",
+                "department":"fruit section",
+                "notes":"apple per kg:90rs"         
+        },
+        {
+                "sno":"14",
+                "item":"beetrout",
+                "quantity":"40",
+                "unit":"kg",
+                "department":"veg section",
+                "notes":"beetrout per kg:30rs"
+        },
+        {
+                "sno":"15",
+                "item":"broccoli",
+                "quantity":"30",
+                "unit":"kg",
+                "department":"veg section",
+                "notes":"fresh ooty broccoli per kg:30rs"
+        },
+        {
+                "sno":"16",
+                "item":"cucumber",
+                "quantity":"50",
+                "unit":"kg",
+                "department":"veg section",
+                "notes":"per kg:30rs"
+        },
+        {
+                "sno":"17",
+                "item":"coriander",
+                "quantity":"20",
+                "unit":"kg",
+                "department":"leafe section",
+                "notes":"per kg:30rs"
+        },
+        {
+                "sno":"18",
+                "item":"coliflower",
+                "quantity":"50",
+                "unit":"kg",
+                "department":"veg section",
+                "notes":"oper kg:40rs"
+        },
+        {
+                "sno":"19",
+                "item":"eastern sambar powder",
+                "quantity":"50 pkt",
+                "unit":"kg",
+                "department":"powder section",
+                "notes":" per 100gm:10rs"
+        },
+        {
+                "sno":"20",
+                "item":"eastern corrienter powder",
+                "quantity":"60 pkt",
+                "unit":"kg",
+                "department":"poder section",
+                "notes":" per 100gm:15rs"
+        }
+]
